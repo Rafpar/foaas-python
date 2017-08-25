@@ -5,4 +5,5 @@ def applyapp():
     m = fuck.random(from_='Rafal').url
     return m
 
-applyapp()
+if __name__ == "__main__":
+    applyapp()
