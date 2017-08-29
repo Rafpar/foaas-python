@@ -1,1 +1,4 @@
 APP_CONFIG=config.py
+HTTP_PROXY=http://m015990:polipoli33@VDCIi03Proxy.oneadr.net:8080/
+HTTPS_PROXY=https://m015990:polipoli33@VDCIi03Proxy.oneadr.net:8080/
+NO_PROXY=master.hostname.example.com
